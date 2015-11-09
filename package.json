@@ -1,0 +1,19 @@
+{
+  "name": "babel-example",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "babel-runtime": "^5.8.29",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {
+    "sleep": "^3.0.0",
+    "traceur-runtime": "0.0.59"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
